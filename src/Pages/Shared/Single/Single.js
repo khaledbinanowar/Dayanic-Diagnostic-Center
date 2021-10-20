@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import { Container, Row, Card, Col } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 const Single = () => {
     const { serviceKey } = useParams();
     const [data, setData] = useState([]);
