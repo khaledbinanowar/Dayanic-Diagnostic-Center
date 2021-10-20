@@ -1,0 +1,50 @@
+[
+    {
+        "key": "1",
+        "img": "https://i.ibb.co/y8MZTV6/blog-08-1.jpg",
+        "title": "Acetaminophen Level",
+        "category": "Cardiology",
+        "price": 44.99,
+        "description": "This test measures the amount of acetaminophen in the blood. Acetaminophen is one of the most common medicines used in over-the-counter pain relievers and fever reducers."
+    },
+    {
+        "key": "2",
+        "img": "https://i.ibb.co/S002k9T/blog-09.jpg",
+        "title": "Magnetic resonance imaging (MRI) ",
+        "category": "MRI",
+        "price": 94.99,
+        "description": "Magnetic resonance imaging (MRI) is a medical imaging technique that uses a magnetic field and computer-generated radio waves to create detailed images of the organs and tissues in your body."
+    },
+    {
+        "key": "3",
+        "img": "https://i.ibb.co/tbwGkDT/blog-02-1.jpg",
+        "title": "Methylmalonic Acid (MMA) Test",
+        "category": "MMA",
+        "price": 28.55,
+        "description": "This test measures the amount of methylmalonic acid (MMA) in your blood or urine. MMA is a substance made in small amounts during metabolism, Most MRI machines."
+    },
+    {
+        "key": "4",
+        "img": "https://i.ibb.co/vVkTz1s/blog-01.jpg",
+        "title": "Uric Acid Test",
+        "category": "Kidney",
+        "price": 74.25,
+        "description": "This test measures the amount of uric acid in your blood or urine. Uric acid is a normal waste product that's made when the body breaks down chemicals called purines."
+    },
+    {
+        "key": "5",
+        "img": "https://i.ibb.co/LZTDk7c/blog-06.jpg",
+        "title": "Filters and purifies the blood (Dialysis)",
+        "category": "Kidney",
+        "price": 89.99,
+        "description": "Dialysis is a treatment that filters and purifies the blood using a machine. This helps keep your fluids and electrolytes in balance when the kidneys can't do their job. Dialysis has."
+    },
+    {
+        "key": "6",
+        "img": "https://i.ibb.co/1QkpddB/blog-27.jpg",
+        "title": "Celiac Disease Screening",
+        "category": "Cardiology",
+        "price": 34.99,
+        "description": "Screening for celiac disease is typically not performed in average-risk persons. The standard method of diagnosing celiac disease is the tissue transglutaminase IgA test."
+    }
+]

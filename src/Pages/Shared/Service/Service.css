@@ -1,0 +1,20 @@
+.service img{
+    width: 100%;
+    height: 280px;
+    background: var(--lightgrey) no-repeat center center;
+    object-fit: cover;
+    position: relative;
+}
+.service .card-text small {
+    background-color: #201f1f;
+    color:#ffffff;
+    padding: 5px 10px;
+    margin: 15px 0;
+    border-radius: 5px;
+    display: inline-block;
+}
+.card{
+    background-color: #f8f9fa;
+    border-radius: .55rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}

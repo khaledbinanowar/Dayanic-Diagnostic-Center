@@ -1,0 +1,8 @@
+.contact{
+    background: url(../../images/SLIDE_02.jpeg);
+    height: 80vh;
+    position: relative;
+}
+.contact label{
+    color:#ffffff;
+}

@@ -1,0 +1,16 @@
+.carousel.slide img{
+    height: 90vh;
+}
+.carousel-caption{
+    bottom: 35%;
+    color: #323232;
+}
+.carousel-caption h3{
+    font-size: 4rem;
+}
+.carousel-caption span{
+    color: #49cac8;
+}
+.carousel-caption p{
+    font-size: 2rem;
+}

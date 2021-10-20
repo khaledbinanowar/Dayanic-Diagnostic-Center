@@ -1,0 +1,20 @@
+.cover{
+    background: url(../../images/cover.jpeg);
+    height: 80vh;
+    position: relative;
+}
+.cover-cotent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.cover-cotent h1{
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.cover-cotent p{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
